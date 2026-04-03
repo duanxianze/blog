@@ -1,6 +1,27 @@
 /* 定义遮罩样式 */
 .VPHome {
-  background: radial-gradient(ellipse, rgba(var(--bg-gradient-home), 1) 0%, rgba(var(--bg-gradient-home), 0) 150%);
+  background: none;
+}
+
+.blog-item,
+.blog-info .card,
+.VPNav {
+  background-color: #FFFFFF !important;
+}
+
+.header-banner h1,.sugar-pagination__jump {
+  color: #FFFFFF !important;
+}
+
+.inspiring-wrapper {
+  text-align: center;
+}
+
+.header-banner h2 {
+  background-image: linear-gradient(to right, red, orange, yellow, violet);
+  -webkit-background-clip: text;
+  color: transparent;
+  display: inline-block;
 }
 
 /* 自定义首页背景图 */
