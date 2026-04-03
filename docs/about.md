@@ -28,4 +28,4 @@ sticky: 1
 
 ## 联系方式
 
-[duanxianze@outlook.com](duanxianze@outlook.com)
+[duanxianze@outlook.com](mailto:duanxianze@outlook.com)
